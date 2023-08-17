@@ -1,0 +1,41 @@
+.box{
+    display:flex;
+    align-items: center;
+    text-align: center;
+    background: #601790;
+    width: 150px;
+    height: 150px;
+    color:aliceblue;
+    font-size: 30px;
+    border-style:solid;
+    border-color: rgb(69, 155, 235);
+    border-width: 2px 2px;    
+}
+
+.boxReverse{
+    display:flex;
+    align-items: center;
+    background: #8e1790;
+    width: 150px;
+    height: 150px;
+    color:aliceblue;
+    font-size: 30px;
+    border-style:solid;
+    border-color: rgb(69, 155, 235);
+    border-width: 2px 2px;
+}
+
+.line{
+    display:flex;
+    flex-direction: row;
+}
+.mainBox{
+    display: flex;
+    flex-flow: column;
+    margin:0px;
+    padding:0px;
+    
+}
+.marcado{
+
+}
